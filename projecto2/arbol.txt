@@ -1,0 +1,7 @@
+Presidente
+	Gerente general
+		Gerente mercadeo
+			Empleado 1
+			Empleado 2
+		Gerente Operaciones
+			Empleado 3
